@@ -1,0 +1,12 @@
+.middleContainer{
+	padding:200px;
+	border:thick;
+	border-color: gray;
+	border-style: solid;
+}
+.textBox{
+	border: thin;
+	border-style: solid;
+	border-color: green;
+	border-radius:5px;
+}
